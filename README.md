@@ -26,5 +26,6 @@ LICENSE
 GNU GPL
 https://gnu.org/licenses/gpl.html
 
-Project forked from https://github.com/ExxKA/credit-card-generator
+Original code was forked from https://github.com/ExxKA/credit-card-generator
+
 That was forked from https://github.com/grahamking/darkcoding-credit-card
